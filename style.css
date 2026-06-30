@@ -94,10 +94,16 @@ body{
  background-color:  var(--cor-de-fundo);
  color: var(--branco);
  border: 2px solid var(--borda);
- padding: 12px;
- font-size: 12px;
+ padding: 17px;
+ font-size: 17px;
+ cursor: pointer;
 }
 .parametro-senha__texto{
+ border-top: 2xp solid var(--borda);
+ border-bottom: 2xp solid var(--borda);
+ padding: 17px;
+ margin 0px;
+ font-size: 17px;
 
 }
 
